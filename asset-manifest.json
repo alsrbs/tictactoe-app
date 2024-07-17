@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alsrbs/tictactoe-app/static/css/main.8d8055aa.css",
-    "main.js": "/alsrbs/tictactoe-app/static/js/main.f2c66f03.js",
-    "static/js/453.163f6166.chunk.js": "/alsrbs/tictactoe-app/static/js/453.163f6166.chunk.js",
-    "index.html": "/alsrbs/tictactoe-app/index.html",
-    "main.8d8055aa.css.map": "/alsrbs/tictactoe-app/static/css/main.8d8055aa.css.map",
-    "main.f2c66f03.js.map": "/alsrbs/tictactoe-app/static/js/main.f2c66f03.js.map",
-    "453.163f6166.chunk.js.map": "/alsrbs/tictactoe-app/static/js/453.163f6166.chunk.js.map"
+    "main.css": "/tictactoe-app/static/css/main.8d8055aa.css",
+    "main.js": "/tictactoe-app/static/js/main.3340eb62.js",
+    "static/js/453.163f6166.chunk.js": "/tictactoe-app/static/js/453.163f6166.chunk.js",
+    "index.html": "/tictactoe-app/index.html",
+    "main.8d8055aa.css.map": "/tictactoe-app/static/css/main.8d8055aa.css.map",
+    "main.3340eb62.js.map": "/tictactoe-app/static/js/main.3340eb62.js.map",
+    "453.163f6166.chunk.js.map": "/tictactoe-app/static/js/453.163f6166.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d8055aa.css",
-    "static/js/main.f2c66f03.js"
+    "static/js/main.3340eb62.js"
   ]
 }
